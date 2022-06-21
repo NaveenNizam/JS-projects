@@ -6,6 +6,8 @@
 
 -  Form        https://form-46f17.web.app/
 
+-  Paragraph    https://find-replace.web.app
+
 -  Simple Calculator https://calculator-41a76.web.app
 
 -  Todo List       https://todo-list-7ef03.web.app
